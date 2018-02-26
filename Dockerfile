@@ -8,4 +8,4 @@ ENV MYSQL_USER=admin
 
 ENV MYSQL_PASSWORD=zaq12wsx
 
-COPY mysql.cnf /etc/mysql/conf.d/
+#COPY mysql.cnf /etc/mysql/conf.d/
